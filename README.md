@@ -24,7 +24,7 @@ The algorithms in these scripts have been tested on the following systems:
 * pandas 1.0.3
 * seaborn 0.10.0
 # Installation Guide
-* The contents are available on GitHub at https://github.com/jgreenhalgh2/UCB_optimization_ACRs
+* The contents are available on GitHub at https://github.com/RomeroLab/ML-Guided-Acyl-ACP-Reductase-Engineering
 * The time to download the scripts and any necessary Python dependencies should be fairly short. 
 # Demo:
 ## To analyze GC data:
