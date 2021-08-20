@@ -2,6 +2,10 @@
 This repository contains code used for utilizing machine-learning models to design enzyme sequences with improved activity. The models rely on upper confidence bound (UCB) optimization, a strategy that balances exploiting regions of the sequence-function landscape that are highly active, and exploring new regions of the landscape.
 
 # Contents
+* Data_Analysis_and_Protabank_File_Prep
+  * Contains code (as a Jupyter notebook) used to update the nomenclature of enzyme names and prepare data in a format suitable for deposition in the ProtaBank database (Relabeling_and_Protabank_Prep folder)
+  * Also, contains workbook for analyzing the raw data and preparing plots for  figures in the manuscript (In Analysis folder)
+  * The code to generate figures for comparing the cross validation results in each round is in a separate folder (UCB_Regularization_and_Cross_Val_by_round_Supplementary_Figure_6)
 * GC_Analysis_Demo
   * Contains raw GC data from one representative experiment, the scripts used to parse and analyze it and the output file
 * Mutual_Information_Algorithm
